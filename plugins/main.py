@@ -30,9 +30,9 @@ Made With 💕 By @MRS_MR_DR
 """
     ABOUT_TEXT = """
  **🤖 Bot :** Url Uploader\n
- **👲 Developer :** [DSR](https://t.me/TNS_BOTS)\n
+ **👲 Developer :** [MRS_MR_DR](https://t.me/MRS_MR_DR)\n
  **👥 Channel :** [TNS BOTS](https://t.me/TNS_BOTS)\n
- **❄️ Credits :** @TNS_BOTS\n
+ **❄️ Credits :** @MRS_MR_DR\n
  **🍴 YOUTUBE :** [Click here](https://youtube.com/channel/UCzAZx2ETnpOydF_zGSAm_AA)\n
  **📝 Language :** [Python3](https://python.org)\n
  **📚 Library :** [Pyrogram v1.2.0](https://pyrogram.org)\n
