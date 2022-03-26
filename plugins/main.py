@@ -31,9 +31,9 @@ Made With 💕 By @MRS_MR_DR
     ABOUT_TEXT = """
  **🤖 Bot :** Url Uploader\n
  **👲 Developer :** [DSR](https://t.me/TNS_BOTS)\n
- **👥 Channel :** [KASHIR BOTS](https://t.me/TNS_BOTS)\n
- **❄️ Credits :** Everyone in this journey\n
- **🍴 YOUTUBE :** [Click here](https://www.youtube.com/channel/UCsNkiEm2go3Zyzum7e3PpBg)\n
+ **👥 Channel :** [TNS BOTS](https://t.me/TNS_BOTS)\n
+ **❄️ Credits :** @TNS_BOTS\n
+ **🍴 YOUTUBE :** [Click here](https://youtube.com/channel/UCzAZx2ETnpOydF_zGSAm_AA)\n
  **📝 Language :** [Python3](https://python.org)\n
  **📚 Library :** [Pyrogram v1.2.0](https://pyrogram.org)\n
  **🌟 Server :** [Heroku](https://heroku.com)\n
